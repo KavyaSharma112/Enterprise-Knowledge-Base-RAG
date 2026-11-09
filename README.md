@@ -49,4 +49,4 @@ Currently under development. The initial project structure and RAG pipeline desi
 
 ## Team
 
-Developed as a four-member major project.
+Developed as a three-member major project.
